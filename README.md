@@ -161,7 +161,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 **Shaurya Verma**
 - Portfolio: [shauryaverma.online](https://shauryaverma.online)
-- GitHub: [@shauryaverma](https://github.com/shauryaverma)
+- GitHub: [@shauryaverma](https://github.com/shauryaverma03)
 
 ---
 
