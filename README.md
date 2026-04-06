@@ -62,8 +62,8 @@
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/employee-transport-app-ios.git
-cd employee-transport-app-ios
+git clone https://github.com/shauryaverma03/Transport-App.git
+cd Transport-App
 ```
 
 **2. Open in Xcode**
